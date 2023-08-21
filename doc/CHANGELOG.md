@@ -1,3 +1,8 @@
+v0.3.8 (Aug 21 2023)
+-----------------------
+ * Updateed premake
+ * Updated For VS22
+
 v0.3.7 (Jan 20 2018)
 -----------------------
  * Fixed an original game bug causing CdStreamSync to deadlock randomly (included an export for other mods to check if this std.stream build is aware of this bug and fixes it).
