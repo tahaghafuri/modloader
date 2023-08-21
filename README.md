@@ -4,8 +4,6 @@ Mod Loader is a plugin for Grand Theft Auto III, Vice City and San Andreas that 
 
 The usage is as simple as inserting the mod files into the *modloader/* directory. Uninstalling is as easy as that too, delete the mod files and you are done. Hot swapping mods while the game is running? By using Mod Loader you can!
 
-Still not sure? Check out [this](https://www.youtube.com/watch?v=TvRpQa8dJ7E) nice video from Ivey. For more, check out our [GTAForums](http://gtaforums.com/topic/669520-mod-loader/) thread and our [GTAGarage](http://www.gtagarage.com/mods/show.php?id=25377) page.
-
 ### Building and Installing
 
 Requirements:
